@@ -61,8 +61,8 @@ def game_hash
         steals:4,
         block:11,
         slam_dunks:1
-        },
-        ],
+        }
+        ]
       
     },
     away:{
@@ -123,10 +123,10 @@ def game_hash
         steals:7,
         block:5,
         slam_dunks:12
-        },
-        ],
+        }
+        ]
       
-    },
+    }
   }
     
   
