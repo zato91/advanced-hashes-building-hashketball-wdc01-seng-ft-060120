@@ -7,7 +7,8 @@ def game_hash
       team_name:"",
       colors:[],
       players:[ 
-        {player_name:,
+        {
+        player_name:,
         number:,
         shoe:,
         points:,
@@ -15,7 +16,19 @@ def game_hash
         assists:,
         steals:,
         block:,
-        slam_dunks:},
+        slam_dunks:
+        },
+        {
+        player_name:,
+        number:,
+        shoe:,
+        points:,
+        rebounds:,
+        assists:,
+        steals:,
+        block:,
+        slam_dunks:
+        },
         ],
       
     },
